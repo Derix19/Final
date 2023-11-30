@@ -1,0 +1,8 @@
+.titulo{
+    color: var(--platform-aliases-texto-base, #C4C4CC);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 160%; /* 25.6px */
+}
