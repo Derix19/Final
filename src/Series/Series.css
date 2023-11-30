@@ -1,0 +1,11 @@
+.series{
+    color: #C4C4CC;
+text-align: center;
+
+/* Text sm */
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 22.4px */
+}
