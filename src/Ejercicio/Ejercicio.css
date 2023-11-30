@@ -1,0 +1,8 @@
+.ejercicio{
+    color: var(--neutral-colors-white, #FFF);
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 160%; /* 28.8px */
+}
